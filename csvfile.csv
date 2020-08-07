@@ -1,11 +1,11 @@
-﻿homelat,homelon,homecontinent,n
-40.2,-82.6,North America,45
-32.2,-98.2,North America,4
--11.2,-67.7,North America,4
-43.9,-120.7,North America,4
--33.9,18.4,Africa,4
-22.2,114.1,Asia,4
-19.0,72.8,Asia,4
+﻿homelat,homelon,homecontinent,n,name
+40.2,-82.6,North America,45,Ohio
+32.2,-98.2,North America,4,N. Virginia
+-11.2,-67.7,North America,4,N. California
+43.9,-120.7,North America,4,Oregon
+-33.9,18.4,Africa,4,Cape Town
+22.2,114.1,Asia,4,Hong Kong
+19.0,72.8,Asia,4,Mumbai
 34.7,135.5,Asia,4
 37.5,126.9,Asia,4
 1.3,103.8,Asia,4
