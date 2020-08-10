@@ -1,26 +1,26 @@
-﻿homelat,homelon,homecontinent,n,name
-40.2,-82.6,North America,45,Ohio
-32.2,-98.2,North America,4,N. Virginia
--11.2,-67.7,North America,4,N. California
-43.9,-120.7,North America,4,Oregon
--33.9,18.4,Africa,4,Cape Town
-22.2,114.1,Asia,4,Hong Kong
-19.0,72.8,Asia,4,Mumbai
-34.7,135.5,Asia,4,Osaka-Local
-37.5,126.9,Asia,4,Seoul
-1.3,103.8,Asia,4,Singapore
--33.8,151.2,Australia,4,Sydney
-35.6,139.7,Asia,4,Tokyo
-9.5,-68.4,South America,4,Central
-39.9,116.3,Asia,4,Beijing
-37.0,105.9,Asia,4,Ningxia
-50.1,8.6,Europe,4,Frankfurt
-52.8,-7.9,Europe,4,Ireland
-51.5,-0.1,Europe,4,London
-45.4,9.1,Europe,4,Milan
-48.8,2.3,Europe,4,Paris
-59.3,18.0,Europe,4,Stockholm
-26.1,50.5,Asia,4,Bahrain
--23.5,-46.6,South America,4,São Paulo
-38.8,-77.1,North America,4,US-East
-39.7,-100.4,North America,4,US
+﻿homelat,homelon,homecontinent,n,name,region
+40.2,-82.6,North America,45,Ohio,us_east_2
+32.2,-98.2,North America,4,N. Virginia,us_east_1
+-11.2,-67.7,North America,4,N. California,us_west_1
+43.9,-120.7,North America,4,Oregon,us_west_2
+-33.9,18.4,Africa,4,Cape Town,af_south_1
+22.2,114.1,Asia,4,Hong Kong,ap_east_1
+19.0,72.8,Asia,4,Mumbai,ap_south_1
+34.7,135.5,Asia,4,Osaka-Local,ap_northeast_3
+37.5,126.9,Asia,4,Seoul,ap_northeast_2
+1.3,103.8,Asia,4,Singapore,ap_southeast_1
+-33.8,151.2,Australia,4,Sydney,ap_southeast_2
+35.6,139.7,Asia,4,Tokyo,ap_northeast_1
+9.5,-68.4,South America,4,Central,ca_central_1
+39.9,116.3,Asia,4,Beijing,cn_north_1
+37.0,105.9,Asia,4,Ningxia,cn_northwest_1
+50.1,8.6,Europe,4,Frankfurt,eu_central_1
+52.8,-7.9,Europe,4,Ireland,eu_west_1
+51.5,-0.1,Europe,4,London,eu_west_2
+45.4,9.1,Europe,4,Milan,eu_south_1
+48.8,2.3,Europe,4,Paris,eu_west_3
+59.3,18.0,Europe,4,Stockholm,eu_north_1
+26.1,50.5,Asia,4,Bahrain,me_south_1
+-23.5,-46.6,South America,4,São Paulo,sa_east_1
+38.8,-77.1,North America,4,US-East,us_gov_east_1
+39.7,-100.4,North America,4,US,us_gov_west_1
